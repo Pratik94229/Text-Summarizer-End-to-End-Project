@@ -44,7 +44,7 @@ python app.py
 ```
 
 5. Access the application:
-Open your web browser and go to `http://localhost:8000` to access the text summarization service.
+Open your web browser and go to `http://localhost:8080` to access the text summarization service.
 
 
 For any inquiries or questions, please feel free to contact me at pratik.941@gmail.com.
