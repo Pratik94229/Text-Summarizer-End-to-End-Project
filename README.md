@@ -6,6 +6,20 @@ This is an end-to-end Text Summarization project that aims to generate concise s
 
 ## Project Structure
 
+├───.github
+│   └───workflows
+├───config
+├───research
+├───src
+│   ├───textSummarizer
+│   │   ├───components
+│   │   ├───config
+│   │   ├───constants
+│   │   ├───entity
+│   │   ├───logging
+│   │   ├───pipeline
+│   │   ├───utils
+
 The project structure is organized as follows:
 
 - `config.yaml`: Configuration file that contains project-specific settings and parameters.
@@ -16,6 +30,7 @@ The project structure is organized as follows:
 - `components`: Directory containing various components used in the text summarization pipeline.
 - `pipeline`: Directory containing the main text summarization pipeline implementation.
 - `main.py`: Main script that orchestrates the text summarization process.
+- `.github/workflows`:Contains code for CICD .
 
 
 ## Getting Started
